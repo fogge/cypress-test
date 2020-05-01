@@ -1,0 +1,11 @@
+{
+  "posts": [
+    { "id": 1, "title": "Message to all!", "message": "GO TO THE DEGABA SYSTEM PLZ", "author": "Ben" },
+    { "id": 2, "title": "Going!", "message": "GOING TO THE DEGABA SYSTEM RIGHT NOW BUDDY", "author": "Luke" },
+    { "id": 3, "title": "Plz dont!", "message": "I'm trying to sleep until I die, plz don't come", "author": "Yoda" }
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 }
+  ],
+  "profile": { "name": "typicode" }
+}

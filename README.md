@@ -1,3 +1,6 @@
+## This is not intended to have any product value. It is only for self-improvement purposes.
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts

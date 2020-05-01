@@ -12,7 +12,8 @@
   },
   "scripts": {
     "cypress-test": "npx cypress open",
-    "start": "react-scripts start",
+    "start:json-server": "json-server --watch db.json",
+    "start": "react-scripts start && npm run start:json-server",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
